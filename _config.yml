@@ -11,6 +11,8 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.4239709808025509
+analytics:
+  google: UA-81861183-1
 author:
   name: Neil Wilkins
   email: neil@vmcg.co.uk
