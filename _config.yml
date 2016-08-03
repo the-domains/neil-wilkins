@@ -22,5 +22,8 @@ navigation:
   - name: Viper Marketing
     url: 'http://www.vmcg.co.uk'
     type: external
+  - name: 'Venturity : growth hacking'
+    url: 'http://www.venturity.co.uk'
+    type: external
 title: Neil Wilkins
 description: '"You are exactly who you think you are"'
