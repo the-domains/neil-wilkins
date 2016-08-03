@@ -6,9 +6,10 @@ color:
   saturation: 0.8838497092947364
   rhythmicContrast: 0.7231475759763271
   brandColors:
-    - '#D8CAA8'
-    - '#5C832F'
-    - '#284907'
-    - '#382513'
-    - '#363942'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: Neil Wilkins
+description: '"On any day of the year it''s summer somewhere .."'
