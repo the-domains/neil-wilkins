@@ -11,6 +11,10 @@ color:
     - '#EDB88B'
     - '#FAD8D6'
 layout_spectrum: 0.4239709808025509
+author:
+  name: Neil Wilkins
+  email: neil@vmcg.co.uk
+  url: neilwilkins.co.uk
 name: Neil Wilkins
 title: Neil Wilkins
 description: '"You are exactly what you think you are"'
