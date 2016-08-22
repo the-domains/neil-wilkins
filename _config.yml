@@ -1,4 +1,3 @@
-layout_spectrum: 0.27965741767548025
 typography_spectrum: 0.30876590055413544
 color:
   brandStrength: 0.04853490018285811
@@ -11,6 +10,7 @@ color:
     - '#B7CA79'
     - '#F6E8B1'
     - '#89725B'
+layout_spectrum: 0.27965741767548025
 analytics:
   google: UA-81861183-1
 author:
@@ -24,6 +24,9 @@ navigation:
     type: external
   - name: Growth Hacking
     url: 'http://www.venturity.co.uk'
+    type: external
+  - name: Tweets
+    url: 'http://www.twitter.com/vipermarketing'
     type: external
 title: Neil Wilkins
 description: '"You are exactly who you think you are"'
