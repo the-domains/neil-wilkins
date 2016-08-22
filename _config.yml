@@ -28,5 +28,8 @@ navigation:
   - name: Tweets
     url: 'http://www.twitter.com/vipermarketing'
     type: external
+  - name: Business
+    url: 'http://www.linkedin.com/neilwilkinsatvipermarketing'
+    type: external
 title: Neil Wilkins
 description: '"You are exactly who you think you are"'
